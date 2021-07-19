@@ -1,3 +1,4 @@
+import "core-js";
 import { GraphQLServer } from 'graphql-yoga'
 import { PrismaClient } from '@prisma/client'
 import bcrypt from 'bcryptjs';
